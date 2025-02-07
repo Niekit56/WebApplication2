@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="strona_glowna.aspx" title="strona glowna"  description="">
+    <siteMapNode url="wykaz_projektow.aspx" title="wykaz projektow"  description="" >
+      <siteMapNode url="dodaj_rodzaj.aspx" title="dodaj rodzaj"  description="" />
+      <siteMapNode url="dodaj_status.aspx" title="dodaj status"  description="" />
+      <siteMapNode url="edytuj_rodzaj.aspx" title="edytuj rodzaj"  description="" />
+      <siteMapNode url="edytuj_status.aspx" title="edytuj status"  description="" />
+      <siteMapNode url="dodaj_projekt.aspx" title="dodaj projekt"  description="" />
+      <siteMapNode url="projekty_wg_rodzaj.aspx" title="projekty wg. rodzaju"  description="" />
+      <siteMapNode url="projekty_wg_status.aspx" title="projekty wg. statusu"  description="" />
+      <siteMapNode url="edytuj_projekt.aspx" title="edycja projektu"  description="" />
+    </siteMapNode>
+
+    <siteMapNode url="wyszukaj_projekt_nr.aspx" title="wyszukaj projekt wg numer" description="">
+      <siteMapNode url="wyszukaj_projekt_temat.aspx" title="wyszukaj projekt wg temat" description="" />
+      <siteMapNode url="wyszukaj_projekt_data.aspx" title="wyszukaj projekt wg daty" description="" />
+      <siteMapNode url="wyszukaj_projekt_kwota.aspx" title="wyszukaj projekt wg kwoty" description="" />
+      <siteMapNode url="statystyki_projekty.aspx" title="statystyki projekty" description="" />
+      <siteMapNode url="projekty_graficzne.aspx" title="projekty graficzne wg rodzaj" description="" />
+      <siteMapNode url="projekty_graficzne1.aspx" title="projekty graficzne wg status" description="" />
+    </siteMapNode>
+    
+    
+  </siteMapNode>
+
+
+</siteMap>
